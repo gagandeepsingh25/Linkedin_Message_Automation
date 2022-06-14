@@ -1,6 +1,6 @@
 ## Linkedin_Message_Automation
 
-this Repo is for sending new connection request and messages to different users on linkedin.
+This Repo is for sending new connection request and messages to different users on linkedin.
 
 Video is attached below
 
